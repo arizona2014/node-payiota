@@ -1,0 +1,45 @@
+{
+  "name": "payiota",
+  "description": "A Node.js wrapper around the Payiota.me API.",
+  "keywords": [
+    "payiota",
+    "a",
+    "node",
+    "js",
+    "wrapper",
+    "around",
+    "the",
+    "me",
+    "api"
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
+  "homepage": "https://github.com/IonicaBizau/payiota#readme",
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "scripts/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js",
+    "bloggify.js",
+    "bloggify.json",
+    "bloggify/"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/payiota.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/payiota/issues"
+  }
+}

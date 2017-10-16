@@ -18,7 +18,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
+  "author": "",
+  "contributors": [
+    "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)"
+  ],
   "homepage": "https://github.com/IonicaBizau/payiota#readme",
   "files": [
     "bin/",
@@ -41,5 +44,9 @@
   },
   "bugs": {
     "url": "https://github.com/IonicaBizau/payiota/issues"
+  },
+  "dependencies": {
+    "err": "^2.1.8",
+    "tinyreq": "^3.2.6"
   }
 }

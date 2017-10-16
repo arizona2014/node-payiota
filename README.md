@@ -44,13 +44,13 @@ There are few ways to get help:
 
  1. Please [post questions on Stack Overflow](https://stackoverflow.com/questions/ask). You can open issues with questions, as long you add a link to your Stack Overflow question.
  2. For bug reports and feature requests, open issues. :bug:
- 3. For direct and quick help, you can [use Codementor](https://www.codementor.io/johnnyb). :rocket:
+
 
 
 ## :memo: Documentation
 
 
-### `payiota(key)`
+### `Payiota(key)`
 A Node.js wrapper around the Payiota.me API.
 
 #### Params
@@ -80,9 +80,9 @@ Have an idea? Found a bug? See [how to contribute][contributing].
 
 ## :scroll: License
 
-[MIT][license] © [][website]
+[MIT][license] © [Andy Lisac][website]
 
-[license]: http://showalicense.com/?fullname=&year=2017#license-mit
+[license]: http://showalicense.com/?fullname=Andy%20Lisac%20%3Candy.lisac%40gmail.com%3E&year=2017#license-mit
 [website]:
 [contributing]: /CONTRIBUTING.md
 [docs]: /DOCUMENTATION.md

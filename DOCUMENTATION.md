@@ -2,7 +2,7 @@
 
 You can see below the API reference of this module.
 
-### `payiota(key)`
+### `Payiota(key)`
 A Node.js wrapper around the Payiota.me API.
 
 #### Params

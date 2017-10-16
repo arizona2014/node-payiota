@@ -61,6 +61,6 @@ Thanks! :sweat_smile:
 
 
 
-[1]: https://github.com/IonicaBizau/payiota/issues
+[1]: https://github.com/arizona2014/node-payiota/issues
 
 [2]: https://github.com/IonicaBizau/code-style

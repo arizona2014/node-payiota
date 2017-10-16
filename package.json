@@ -22,7 +22,7 @@
   "contributors": [
     "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)"
   ],
-  "homepage": "https://github.com/IonicaBizau/payiota#readme",
+  "homepage": "https://github.com/arizona2014/node-payiota#readme",
   "files": [
     "bin/",
     "app/",
@@ -40,10 +40,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/IonicaBizau/payiota.git"
+    "url": "git+ssh://git@github.com/arizona2014/node-payiota.git"
   },
   "bugs": {
-    "url": "https://github.com/IonicaBizau/payiota/issues"
+    "url": "https://github.com/arizona2014/node-payiota/issues"
   },
   "dependencies": {
     "err": "^2.1.8",

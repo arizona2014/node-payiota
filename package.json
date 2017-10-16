@@ -18,7 +18,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Andy Lisac <andy.lisac@gmail.com>",
   "contributors": [
     "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)"
   ],

@@ -2,16 +2,12 @@
 
 You can see below the API reference of this module.
 
-### `payiota(a, b)`
+### `payiota(key)`
 A Node.js wrapper around the Payiota.me API.
 
 #### Params
 
-- **Number** `a`: Param descrpition.
-- **Number** `b`: Param descrpition.
-
-#### Return
-- **Number** Return description.
+- **String** `key`: The Payiota API key.
 
 ### `buy(options)`
 Creates an invoice (address/price pair).

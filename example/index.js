@@ -11,23 +11,24 @@ payiota.buy({
     // You will have to take care
     // of encrypting this on your side
     // if you are concerned about security
+	
+    // Buy $42
+    price: 42,	
     custom: "some metadata",
 
-    // Buy $42
-    price: 42,
+
 }).then(res => {
     console.log("transaction created", res)
 }).catch(err => {
     console.error(err)
 })
 
-// Create an invoice for a later date
+// Update
 payiota.buy({
-    custom: "some metadata",
-    price: 42,
+    verification: verificationKey,
     address: "the address"
 }).then(res => {
-    console.log("transaction created", res)
+    console.log("new price of in IOTA's ", res)
 }).catch(err => {
     console.error(err)
 })

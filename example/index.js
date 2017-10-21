@@ -4,6 +4,8 @@ const PayiotaAPI = require("../lib");
 
 const payiota = new PayiotaAPI("your api key")
 
+const verificationKey = "Verification_from_payiota"; 
+
 // Create an invoice
 payiota.buy({
     // You will have to take care

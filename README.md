@@ -39,13 +39,12 @@ payiota.buy({
     console.error(err)
 })
 
-// Create an invoice for a later date
+// Update
 payiota.buy({
-    custom: "some metadata",
-    price: 42,
+    verification: verificationKey,
     address: "the address"
 }).then(res => {
-    console.log("transaction created", res)
+    console.log("new price of in IOTA's ", res)
 }).catch(err => {
     console.error(err)
 })
